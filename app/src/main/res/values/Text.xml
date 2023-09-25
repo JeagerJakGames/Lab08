@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Main_Title">Android ATC Pizza Shop</string>
+    <string name="Section_Schedule">Schedule a Pickup</string>
+    <string name="TV_Name">Full Name</string>
+    <string name="TV_PhoneNum">Phone Number</string>
+    <string name="lblPizzaSize">Select Your Pizza Size: </string>
+    <string name="Small">Small: $5</string>
+    <string name="Med">Medium: $8</string>
+    <string name="Large">Large: $11</string>
+    <string name="XL">Extra Large: $14</string>
+
+
+</resources>
